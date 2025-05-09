@@ -18,4 +18,4 @@
 
 
 
-[linkedin]: www.linkedin.com/in/jeremiahmarion
+[linkedin]:www.linkedin.com/in/jeremiahmarion
